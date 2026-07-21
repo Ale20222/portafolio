@@ -195,6 +195,7 @@ button {
     object-position: center;
     display: block;
     filter: drop-shadow(0 25px 45px rgba(255, 31, 143, 0.3));
+    mask-image: linear-gradient(purple, purple 60%, transparent);
 }
 
 .heroe-rol {
